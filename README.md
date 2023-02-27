@@ -5,4 +5,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ![](./images/screenshot1.png)
 ![](./images/screenshot2.png)
 
-Live Site URL: https://siyosu.github.com/nft-preview-card/
+Live Site URL: https://siyosu.github.io/nft-preview-card/
